@@ -4,7 +4,7 @@ vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@127.0.0.1:443?path=%2F%3Fed%3D2048&
 
 
 
-
+vless://3cdbc462-6272-4c2a-9a2d-1525a81c7dfa@172.67.217.86:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=xeeqi.kevani8800.workers.dev&type=ws&sni=xeeqi.kevani8800.workers.dev#%F0%9F%87%AC%F0%9F%87%A7+S2+%7C+1+%D8%AC%D8%AF%DB%8C%D8%AF+%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D8%A7+%D9%87%D8%A7
  vless://3cdbc462-6272-4c2a-9a2d-1525a81c7dfa@104.16.54.2:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=xeeqi.kevani8800.workers.dev&type=ws&sni=xeeqi.kevani8800.workers.dev#%F0%9F%87%AC%F0%9F%87%A7+S2+%7C+1+%D8%AC%D8%AF%DB%8C%D8%AF+%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D8%A7+%D9%87%D8%A7
 vless://3cdbc462-6272-4c2a-9a2d-1525a81c7dfa@104.16.54.14:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=xeeqi.kevani8800.workers.dev&type=ws&sni=xeeqi.kevani8800.workers.dev#%F0%9F%87%AC%F0%9F%87%A7+S2+%7C+2+%D8%AC%D8%AF%DB%8C%D8%AF+%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D8%A7+%D9%87%D8%A7
 vless://3cdbc462-6272-4c2a-9a2d-1525a81c7dfa@172.67.217.13:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=xeeqi.kevani8800.workers.dev&type=ws&sni=xeeqi.kevani8800.workers.dev#%F0%9F%87%AC%F0%9F%87%A7+S2+%7C+3+%D8%AC%D8%AF%DB%8C%D8%AF+%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D8%A7+%D9%87%D8%A7
