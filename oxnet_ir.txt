@@ -14,14 +14,14 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@ilovepdf.com:443?path=%2FKkhHL0gsSo
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23.227.39.1:443?path=%2FKkhHL0gsSoZ7M6id%2FZGU1Lm1lcmxpbm56Lmxpbms%3D%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=936a99B4.vDE5-MLx81LANeO.pAgeS.DEV&fp=randomized&type=ws&sni=936a99B4.Vde5-MlX81LANeo.pAgES.dEv#%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D9%88+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84+%D8%AC%D8%AF%DB%8C%D8%AF+9+%7C+S5+%F0%9F%87%A9%F0%9F%87%AA
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.249.112:443?path=%2FKkhHL0gsSoZ7M6id%2FZGU1Lm1lcmxpbm56Lmxpbms%3D%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=936a99B4.vDE5-MLx81LANeO.pAgeS.DEV&fp=randomized&type=ws&sni=936a99B4.Vde5-MlX81LANeo.pAgES.dEv#%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D9%88+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84+%D8%AC%D8%AF%DB%8C%D8%AF+10+%7C+S5+%F0%9F%87%A9%F0%9F%87%AA
 
-server uk 2
+server uk 1
 
-vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@104.16.54.150:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=xswa.kevani8800.workers.dev&fp=randomized&type=ws&sni=xswa.kevani8800.workers.dev#%F0%9F%87%AC%F0%9F%87%A7+6+%7C+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84%7CIrancell
-vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@check-host.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=xswa.kevani8800.workers.dev&fp=randomized&type=ws&sni=xswa.kevani8800.workers.dev#%F0%9F%87%AC%F0%9F%87%A7+5+%7C+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84%7CIrancell
-vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@temp-mail.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=xswa.kevani8800.workers.dev&fp=randomized&type=ws&sni=xswa.kevani8800.workers.dev#%F0%9F%87%AC%F0%9F%87%A7+4+%7C+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84%7CIrancell
-vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@www.speedtest.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=xswa.kevani8800.workers.dev&type=ws#%F0%9F%87%AC%F0%9F%87%A7+3+%7C+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84%7CIrancell
-vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@172.67.217.107:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=xswa.kevani8800.workers.dev&type=ws#%F0%9F%87%AC%F0%9F%87%A7+2+%7C+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84%7CIrancell
 vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@104.16.54.150:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=xswa.kevani8800.workers.dev&type=ws#%F0%9F%87%AC%F0%9F%87%A7+1+%7C+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84%7CIrancell
+vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@172.67.217.107:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=xswa.kevani8800.workers.dev&type=ws#%F0%9F%87%AC%F0%9F%87%A7+2+%7C+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84%7CIrancell
+vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@www.speedtest.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=xswa.kevani8800.workers.dev&type=ws#%F0%9F%87%AC%F0%9F%87%A7+3+%7C+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84%7CIrancell
+vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@temp-mail.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=xswa.kevani8800.workers.dev&fp=randomized&type=ws&sni=xswa.kevani8800.workers.dev#%F0%9F%87%AC%F0%9F%87%A7+4+%7C+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84%7CIrancell
+vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@check-host.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=xswa.kevani8800.workers.dev&fp=randomized&type=ws&sni=xswa.kevani8800.workers.dev#%F0%9F%87%AC%F0%9F%87%A7+5+%7C+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84%7CIrancell
+vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@104.16.54.150:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=xswa.kevani8800.workers.dev&fp=randomized&type=ws&sni=xswa.kevani8800.workers.dev#%F0%9F%87%AC%F0%9F%87%A7+6+%7C+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84%7CIrancell
 
 server se 2
 
