@@ -1,6 +1,6 @@
 vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@127.0.0.1:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=xswa.kevani8800.workers.dev&fp=randomized&type=ws&sni=xswa.kevani8800.workers.dev#%E2%9A%A1+%7C+%DA%86%D9%86%D9%84+%D9%85%D8%A7+%D8%AF%D8%B1+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+oxnet_ir+%7C+%E2%9A%A1
 
-vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@127.0.0.1:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=xswa.kevani8800.workers.dev&fp=randomized&type=ws&sni=xswa.kevani8800.workers.dev#%E2%99%BB%EF%B8%8F+%7C+%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA+%DA%86%D9%87%D8%A7%D8%B1+%D8%B4%D9%86%D8%A8%D9%87+%DB%B0%DB%B2%2F%DB%B2%DB%B6+%E2%80%A2+%DB%B2%DB%B2%3A%DB%B0%DB%B5+%7C+%E2%99%BB%EF%B8%8F
+vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@127.0.0.1:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=xswa.kevani8800.workers.dev&fp=randomized&type=ws&sni=xswa.kevani8800.workers.dev#%E2%99%BB%EF%B8%8F+%7C+%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA+%D9%BE%D9%86%D8%AC+%D8%B4%D9%86%D8%A8%D9%87+%DB%B0%DB%B2%2F%DB%B2%DB%B7+%E2%80%A2+%DB%B1%DB%B0%3A%DB%B0%DB%B0+%7C+%E2%99%BB%EF%B8%8F
 
 
 
