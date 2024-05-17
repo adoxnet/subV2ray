@@ -1,5 +1,30 @@
 vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@127.0.0.1:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=xswa.kevani8800.workers.dev&fp=randomized&type=ws&sni=xswa.kevani8800.workers.dev#%E2%9A%A1+%7C+%DA%86%D9%86%D9%84+%D9%85%D8%A7+%D8%AF%D8%B1+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+oxnet_ir+%7C+%E2%9A%A1
-vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@127.0.0.1:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=xswa.kevani8800.workers.dev&fp=randomized&type=ws&sni=xswa.kevani8800.workers.dev#%E2%99%BB%EF%B8%8F+%7C+%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA+%D9%BE%D9%86%D8%AC+%D8%B4%D9%86%D8%A8%D9%87+%DB%B0%DB%B2%2F%DB%B2%DB%B7+%E2%80%A2+%DB%B2%DB%B1%3A%DB%B5%DB%B5+%7C+%E2%99%BB%EF%B8%8F
+vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@127.0.0.1:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=xswa.kevani8800.workers.dev&fp=randomized&type=ws&sni=xswa.kevani8800.workers.dev#%E2%99%BB%EF%B8%8F+%7C+%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA+%D8%AC%D9%85%D8%B9%D9%87+%DB%B0%DB%B2%2F%DB%B2%DB%B8+%E2%80%A2+%DB%B1%DB%B2%3A%DB%B5%DB%B0+%7C+%E2%99%BB%EF%B8%8F
+
+MCI
+
+vless://994c91dd-b282-4c25-a0c5-af76b480c080@66.235.200.1:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mci-google-bing3164.sdb5j.workers.dev&fp=randomized&type=ws&sni=mci-google-bing3164.sdb5j.workers.dev#%F0%9F%94%B9+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84+1+%F0%9F%94%B8
+vless://994c91dd-b282-4c25-a0c5-af76b480c080@66.235.200.1:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mci-google-bing3164.sdb5j.workers.dev&fp=randomized&type=ws&sni=mci-google-bing3164.sdb5j.workers.dev#%F0%9F%94%B9+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84+2+%F0%9F%94%B8
+vless://994c91dd-b282-4c25-a0c5-af76b480c080@66.235.200.1:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mci-google-bing3164.sdb5j.workers.dev&fp=randomized&type=ws&sni=mci-google-bing3164.sdb5j.workers.dev#%F0%9F%94%B9+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84+2+%F0%9F%94%B8
+vless://994c91dd-b282-4c25-a0c5-af76b480c080@temp-mail.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mci-google-bing3164.sdb5j.workers.dev&fp=randomized&type=ws&sni=mci-google-bing3164.sdb5j.workers.dev#%F0%9F%94%B9+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84+4+%F0%9F%94%B8
+vless://994c91dd-b282-4c25-a0c5-af76b480c080@172.67.217.107:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mci-google-bing3164.sdb5j.workers.dev&fp=randomized&type=ws&sni=mci-google-bing3164.sdb5j.workers.dev#%F0%9F%94%B9+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84+5+%F0%9F%94%B8
+vless://994c91dd-b282-4c25-a0c5-af76b480c080@Nexde.tala.network:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mci-google-bing3164.sdb5j.workers.dev&fp=randomized&type=ws&sni=mci-google-bing3164.sdb5j.workers.dev#%F0%9F%94%B9+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84+6+%F0%9F%94%B8
+
+server Fr 1
+
+vless://69256407-66b7-45eb-ad2b-8e879407291f@temp-mail.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=subce.ribiwa9933.workers.dev&type=ws#%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1+%D9%87%D8%A7+1+%7C++%F0%9F%87%AB%F0%9F%87%B7+S1
+vless://69256407-66b7-45eb-ad2b-8e879407291f@66.235.200.1:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=subce.ribiwa9933.workers.dev&type=ws#%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1+%D9%87%D8%A7+2+%7C++%F0%9F%87%AB%F0%9F%87%B7+S1
+vless://69256407-66b7-45eb-ad2b-8e879407291f@www.speedtest.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=subce.ribiwa9933.workers.dev&type=ws#%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1+%D9%87%D8%A7+3+%7C++%F0%9F%87%AB%F0%9F%87%B7+S1
+vless://69256407-66b7-45eb-ad2b-8e879407291f@172.67.217.107:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=subce.ribiwa9933.workers.dev&type=ws#%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1+%D9%87%D8%A7+4+%7C++%F0%9F%87%AB%F0%9F%87%B7+S1
+vless://69256407-66b7-45eb-ad2b-8e879407291f@zula.ir:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=subce.ribiwa9933.workers.dev&type=ws#%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1+%D9%87%D8%A7+5+%7C++%F0%9F%87%AB%F0%9F%87%B7+S1
+
+server fi 1
+
+vless://1f98b5cc-140f-46b4-987f-6936da9f2238@zula.ir:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#%F0%9F%87%AB%F0%9F%87%AE+%7CS1%7C+1+%D9%85%D9%88%D8%AF%D9%85+%D9%88+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
+vless://1f98b5cc-140f-46b4-987f-6936da9f2238@temp-mail.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#%F0%9F%87%AB%F0%9F%87%AE+%7CS1%7C+2+%D9%85%D9%88%D8%AF%D9%85+%D9%88+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
+vless://1f98b5cc-140f-46b4-987f-6936da9f2238@www.speedtest.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#%F0%9F%87%AB%F0%9F%87%AE+%7CS1%7C+3+%D9%85%D9%88%D8%AF%D9%85+%D9%88+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
+vless://1f98b5cc-140f-46b4-987f-6936da9f2238@172.67.217.107:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#%F0%9F%87%AB%F0%9F%87%AE+%7CS1%7C+4+%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1+%D9%87%D8%A7
+vless://1f98b5cc-140f-46b4-987f-6936da9f2238@198.41.217.188:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#%F0%9F%87%AB%F0%9F%87%AE+%7CS1%7C+5+%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1+%D9%87%D8%A7
 
 Server DE 5
 
@@ -31,24 +56,6 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@66.235.200.1:443?path=%2FlUC4Ru4KdZ
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.217.107:443?path=%2FlUC4Ru4KdZZim5l9%2FNS40Mi43NS4xODM%3D%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=698aa4aA.SwZ-uuz-316.pagEs.deV&fp=randomized&type=ws&sni=698Aa4AA.Swz-UUz-316.PageS.Dev#s2+%7C+%F0%9F%87%B8%F0%9F%87%AA+4++%7C+%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1+%D9%87%D8%A7
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.20.61.88:443?path=%2FlUC4Ru4KdZZim5l9%2FNS40Mi43NS4xODM%3D%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=698aa4aA.SwZ-uuz-316.pagEs.deV&fp=randomized&type=ws&sni=698Aa4AA.Swz-UUz-316.PageS.Dev#s2+%7C+%F0%9F%87%B8%F0%9F%87%AA+5++%7C+%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1+%D9%87%D8%A7
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@temp-mail.org:443?path=%2FlUC4Ru4KdZZim5l9%2FNS40Mi43NS4xODM%3D%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=698aa4aA.SwZ-uuz-316.pagEs.deV&fp=randomized&type=ws&sni=698Aa4AA.Swz-UUz-316.PageS.Dev#s2+%7C+%F0%9F%87%B8%F0%9F%87%AA+6++%7C+%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1+%D9%87%D8%A7
-
-
-server Fr 1
-
-vless://69256407-66b7-45eb-ad2b-8e879407291f@temp-mail.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=subce.ribiwa9933.workers.dev&type=ws#%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1+%D9%87%D8%A7+1+%7C++%F0%9F%87%AB%F0%9F%87%B7+S1
-vless://69256407-66b7-45eb-ad2b-8e879407291f@66.235.200.1:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=subce.ribiwa9933.workers.dev&type=ws#%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1+%D9%87%D8%A7+2+%7C++%F0%9F%87%AB%F0%9F%87%B7+S1
-vless://69256407-66b7-45eb-ad2b-8e879407291f@www.speedtest.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=subce.ribiwa9933.workers.dev&type=ws#%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1+%D9%87%D8%A7+3+%7C++%F0%9F%87%AB%F0%9F%87%B7+S1
-vless://69256407-66b7-45eb-ad2b-8e879407291f@172.67.217.107:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=subce.ribiwa9933.workers.dev&type=ws#%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1+%D9%87%D8%A7+4+%7C++%F0%9F%87%AB%F0%9F%87%B7+S1
-vless://69256407-66b7-45eb-ad2b-8e879407291f@zula.ir:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=subce.ribiwa9933.workers.dev&type=ws#%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1+%D9%87%D8%A7+5+%7C++%F0%9F%87%AB%F0%9F%87%B7+S1
-
-server fi 1
-
-vless://1f98b5cc-140f-46b4-987f-6936da9f2238@zula.ir:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#%F0%9F%87%AB%F0%9F%87%AE+%7CS1%7C+1+%D9%85%D9%88%D8%AF%D9%85+%D9%88+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
-vless://1f98b5cc-140f-46b4-987f-6936da9f2238@temp-mail.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#%F0%9F%87%AB%F0%9F%87%AE+%7CS1%7C+2+%D9%85%D9%88%D8%AF%D9%85+%D9%88+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
-vless://1f98b5cc-140f-46b4-987f-6936da9f2238@www.speedtest.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#%F0%9F%87%AB%F0%9F%87%AE+%7CS1%7C+3+%D9%85%D9%88%D8%AF%D9%85+%D9%88+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
-vless://1f98b5cc-140f-46b4-987f-6936da9f2238@172.67.217.107:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#%F0%9F%87%AB%F0%9F%87%AE+%7CS1%7C+4+%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1+%D9%87%D8%A7
-vless://1f98b5cc-140f-46b4-987f-6936da9f2238@198.41.217.188:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#%F0%9F%87%AB%F0%9F%87%AE+%7CS1%7C+5+%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1+%D9%87%D8%A7
-
 
 server de 4
 
