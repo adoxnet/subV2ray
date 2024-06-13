@@ -1,5 +1,5 @@
 vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@127.0.0.1:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=xswa.kevani8800.workers.dev&fp=randomized&type=ws&sni=xswa.kevani8800.workers.dev#%E2%9A%A1+%7C+%DA%86%D9%86%D9%84+%D9%85%D8%A7+%D8%AF%D8%B1+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+oxnet_ir+%7C+%E2%9A%A1
-vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@127.0.0.1:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=xswa.kevani8800.workers.dev&fp=randomized&type=ws&sni=xswa.kevani8800.workers.dev#%E2%99%BB%EF%B8%8F+%7C+%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA+%D9%BE%D9%86%D8%AC+%D8%B4%D9%86%D8%A8%D9%87+%DB%B0%DB%B3%2F%DB%B2%DB%B4+%E2%80%A2+%DB%B1%DB%B2%3A%DB%B2%DB%B0+%7C+%E2%99%BB%EF%B8%8F
+vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@127.0.0.1:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=xswa.kevani8800.workers.dev&fp=randomized&type=ws&sni=xswa.kevani8800.workers.dev#%E2%99%BB%EF%B8%8F+%7C+%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA+%D9%BE%D9%86%D8%AC+%D8%B4%D9%86%D8%A8%D9%87+%DB%B0%DB%B3%2F%DB%B2%DB%B4+%E2%80%A2+%DB%B1%DB%B2%3A%DB%B3%DB%B0+%7C+%E2%99%BB%EF%B8%8F
 
 LUX 
 
@@ -110,6 +110,8 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@66.235.200.1:8443?path=%2FlUC4Ru4Kd
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.217.107:8443?path=%2FlUC4Ru4KdZZim5l9%2FNS40Mi43NS4xODM%3D%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=698aa4aA.SwZ-uuz-316.pagEs.deV&fp=randomized&type=ws&sni=698Aa4AA.Swz-UUz-316.PageS.Dev#s2+%7C+%F0%9F%87%B8%F0%9F%87%AA+4++%7C+%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1+%D9%87%D8%A7
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.20.61.88:2083?path=%2FlUC4Ru4KdZZim5l9%2FNS40Mi43NS4xODM%3D%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=698aa4aA.SwZ-uuz-316.pagEs.deV&fp=randomized&type=ws&sni=698Aa4AA.Swz-UUz-316.PageS.Dev#s2+%7C+%F0%9F%87%B8%F0%9F%87%AA+5++%7C+%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1+%D9%87%D8%A7
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@temp-mail.org:443?path=%2FlUC4Ru4KdZZim5l9%2FNS40Mi43NS4xODM%3D%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=698aa4aA.SwZ-uuz-316.pagEs.deV&fp=randomized&type=ws&sni=698Aa4AA.Swz-UUz-316.PageS.Dev#s2+%7C+%F0%9F%87%B8%F0%9F%87%AA+6++%7C+%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1+%D9%87%D8%A7
+
+vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@127.0.0.1:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=xswa.kevani8800.workers.dev&fp=randomized&type=ws&sni=xswa.kevani8800.workers.dev#%E2%9A%9C%EF%B8%8F+%D8%A8%D9%87+%D8%B5%D9%88%D8%B1%D8%AA+%D9%81%D8%B1%DA%AF%D9%85%D9%86%D8%AA+%F0%9F%91%87+%E2%9A%9C%EF%B8%8F
 
 Fergmnt lux
 
