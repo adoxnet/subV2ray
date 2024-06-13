@@ -1,7 +1,49 @@
 vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@127.0.0.1:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=xswa.kevani8800.workers.dev&fp=randomized&type=ws&sni=xswa.kevani8800.workers.dev#%E2%9A%A1+%7C+%DA%86%D9%86%D9%84+%D9%85%D8%A7+%D8%AF%D8%B1+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+oxnet_ir+%7C+%E2%9A%A1
 vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@127.0.0.1:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=xswa.kevani8800.workers.dev&fp=randomized&type=ws&sni=xswa.kevani8800.workers.dev#%E2%99%BB%EF%B8%8F+%7C+%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA+%D8%B4%D9%86%D8%A8%D9%87+%DB%B0%DB%B3%2F%DB%B1%DB%B2+%E2%80%A2+%DB%B2%DB%B0%3A%DB%B0%DB%B0+%7C+%E2%99%BB%EF%B8%8F
 
+NL NEW
 
+vless://538ec70c-b386-51ad-8155-aeaed37a22b6@104.16.233.155:2053?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=newus.sspeednetokala.Us.kG&fp=chrome&type=ws&sni=newus.sspeednetokala.Us.kG#%F0%9F%87%B3%F0%9F%87%B1+S1+%7C+%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D8%A7+1
+
+vless://538ec70c-b386-51ad-8155-aeaed37a22b6@www.speedtest.net:2053?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3,h2&host=newus.sspeednetokala.uS.Kg&fp=safari&type=ws&sni=newus.sspeednetokala.uS.Kg#%F0%9F%87%B3%F0%9F%87%B1+S1+%7C+%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D8%A7+2
+
+vless://538ec70c-b386-51ad-8155-aeaed37a22b6@104.27.5.195:8443?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=newus.sspeednetokala.Us.kg&fp=chrome&type=ws&sni=newus.sspeednetokala.Us.kg#%F0%9F%87%B3%F0%9F%87%B1+S1+%7C+%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D8%A7+3
+
+vless://538ec70c-b386-51ad-8155-aeaed37a22b6@104.22.25.85:2083?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3,h2&host=newus.sspeednetokala.us.KG&fp=chrome&type=ws&sni=newus.sspeednetokala.us.KG#%F0%9F%87%B3%F0%9F%87%B1+S1+%7C+%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D8%A7+4
+
+vless://538ec70c-b386-51ad-8155-aeaed37a22b6@162.159.195.212:443?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2&host=newus.sspeednetokala.uS.kg&fp=firefox&type=ws&sni=newus.sspeednetokala.uS.kg#%F0%9F%87%B3%F0%9F%87%B1+S1+%7C+%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D8%A7+5
+
+vless://538ec70c-b386-51ad-8155-aeaed37a22b6@temp-mail.org:2053?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2&host=newus.sspeednetokala.US.KG&fp=chrome&type=ws&sni=newus.sspeednetokala.US.KG#%F0%9F%87%B3%F0%9F%87%B1+S1+%7C+%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D8%A7+6
+
+vless://538ec70c-b386-51ad-8155-aeaed37a22b6@104.19.10.118:2096?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=newus.sspeednetokala.Us.Kg&fp=randomized&type=ws&sni=newus.sspeednetokala.Us.Kg#%F0%9F%87%B3%F0%9F%87%B1+S1+%7C+%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D8%A7+7
+
+vless://538ec70c-b386-51ad-8155-aeaed37a22b6@172.67.245.156:2087?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2&host=newus.sspeednetokala.US.KG&fp=chrome&type=ws&sni=newus.sspeednetokala.US.KG#%F0%9F%87%B3%F0%9F%87%B1+S1+%7C+%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D8%A7+8
+
+vless://538ec70c-b386-51ad-8155-aeaed37a22b6@104.19.38.103:443?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=newus.sspeednetokala.Us.kG&fp=firefox&type=ws&sni=newus.sspeednetokala.Us.kG#%F0%9F%87%B3%F0%9F%87%B1+S1+%7C+%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D8%A7+9
+
+vless://538ec70c-b386-51ad-8155-aeaed37a22b6@check-host.net:443?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=newus.sspeednetokala.us.kG&fp=randomized&type=ws&sni=newus.sspeednetokala.us.kG#%F0%9F%87%B3%F0%9F%87%B1+S1+%7C+%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D8%A7+10
+
+TR NEW
+
+vless://c1b972a3-9da3-5051-8dee-88e160001da1@104.25.133.101:443?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2&host=nikuw.sspeednetokala.us.Kg&fp=safari&type=ws&sni=nikuw.sspeednetokala.us.Kg#%F0%9F%87%B9%F0%9F%87%B7+S1+%7C+%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D8%A7+1
+
+vless://c1b972a3-9da3-5051-8dee-88e160001da1@104.23.102.77:2053?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=nikuw.sspeednetokala.US.KG&fp=randomized&type=ws&sni=nikuw.sspeednetokala.US.KG#%F0%9F%87%B9%F0%9F%87%B7+S1+%7C+%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D8%A7+2
+
+vless://c1b972a3-9da3-5051-8dee-88e160001da1@104.19.149.130:443?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=nikuw.sspeednetokala.us.KG&fp=edge&type=ws&sni=nikuw.sspeednetokala.us.KG#%F0%9F%87%B9%F0%9F%87%B7+S1+%7C+%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D8%A7+3
+
+vless://c1b972a3-9da3-5051-8dee-88e160001da1@104.25.122.104:8443?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3,h2&host=nikuw.sspeednetokala.US.kG&fp=edge&type=ws&sni=nikuw.sspeednetokala.US.kG#%F0%9F%87%B9%F0%9F%87%B7+S1+%7C+%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D8%A7+4
+
+vless://c1b972a3-9da3-5051-8dee-88e160001da1@104.17.254.74:2096?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3,h2&host=nikuw.sspeednetokala.US.Kg&fp=ios&type=ws&sni=nikuw.sspeednetokala.US.Kg#%F0%9F%87%B9%F0%9F%87%B7+S1+%7C+%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D8%A7+5
+
+vless://c1b972a3-9da3-5051-8dee-88e160001da1@104.25.2.60:443?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=nikuw.sspeednetokala.uS.kg&fp=randomized&type=ws&sni=nikuw.sspeednetokala.uS.kg#%F0%9F%87%B9%F0%9F%87%B7+S1+%7C+%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D8%A7+6
+
+vless://c1b972a3-9da3-5051-8dee-88e160001da1@104.25.133.101:2096?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=nikuw.sspeednetokala.US.Kg&fp=chrome&type=ws&sni=nikuw.sspeednetokala.US.Kg#%F0%9F%87%B9%F0%9F%87%B7+S1+%7C+%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D8%A7+7
+
+vless://c1b972a3-9da3-5051-8dee-88e160001da1@104.16.133.218:8443?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=nikuw.sspeednetokala.Us.KG&fp=edge&type=ws&sni=nikuw.sspeednetokala.Us.KG#%F0%9F%87%B9%F0%9F%87%B7+S1+%7C+%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D8%A7+8
+
+vless://c1b972a3-9da3-5051-8dee-88e160001da1@104.24.31.100:2083?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=nikuw.sspeednetokala.Us.KG&fp=android&type=ws&sni=nikuw.sspeednetokala.Us.KG#%F0%9F%87%B9%F0%9F%87%B7+S1+%7C+%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D8%A7+9
+
+vless://c1b972a3-9da3-5051-8dee-88e160001da1@104.25.133.101:8443?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=nikuw.sspeednetokala.uS.kG&fp=android&type=ws&sni=nikuw.sspeednetokala.uS.kG#%F0%9F%87%B9%F0%9F%87%B7+S1+%7C+%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D8%A7+10
 
 DE S 5
 
