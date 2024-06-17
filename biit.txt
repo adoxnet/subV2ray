@@ -1,7 +1,0 @@
-server Fr 1
-
-vless://5521744a-f20b-407b-87b7-3797b30d3f2c@temp-mail.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=frtvd.oxnetirz214.workers.dev&type=ws#%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1+%D9%87%D8%A7+1+%7C++%F0%9F%87%AB%F0%9F%87%B7+S1
-vless://5521744a-f20b-407b-87b7-3797b30d3f2c@66.235.200.1:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=frtvd.oxnetirz214.workers.dev&type=ws#%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1+%D9%87%D8%A7+2+%7C++%F0%9F%87%AB%F0%9F%87%B7+S1
-vless://5521744a-f20b-407b-87b7-3797b30d3f2c@www.speedtest.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=frtvd.oxnetirz214.workers.dev&type=ws#%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1+%D9%87%D8%A7+3+%7C++%F0%9F%87%AB%F0%9F%87%B7+S1
-vless://5521744a-f20b-407b-87b7-3797b30d3f2c@172.67.217.107:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=frtvd.oxnetirz214.workers.dev&type=ws#%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1+%D9%87%D8%A7+4+%7C++%F0%9F%87%AB%F0%9F%87%B7+S1
-vless://5521744a-f20b-407b-87b7-3797b30d3f2c@zula.ir:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=frtvd.oxnetirz214.workers.dev&type=ws#%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1+%D9%87%D8%A7+5+%7C++%F0%9F%87%AB%F0%9F%87%B7+S1
