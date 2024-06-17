@@ -3,8 +3,6 @@ vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@127.0.0.1:443?path=%2F%3Fed%3D2048&
 
 NL 1
 
-NL
-
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.233.155:2053?path=%2FTSBgGkLqaxnignSz%2FNjIuMy4xMi4xODU%3D%3Fed%3D2560&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=gU-2r-E35m-eO-2rTT-3f-b-CDq-2G4t-t5-Hdr4-6Yvd-35gH-dwE64-w.pAGes.Dev&fp=chrome&type=ws&sni=gU-2r-E35m-eO-2rTT-3f-b-CDq-2G4t-t5-Hdr4-6Yvd-35gH-dwE64-w.pAGes.Dev#%F0%9F%87%B3%F0%9F%87%B1+S1+%7C+%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D8%A7+1
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2053?path=%2FTSBgGkLqaxnignSz%2FNjIuMy4xMi4xODU%3D%3Fed%3D2560&security=tls&encryption=none&alpn=h3,h2&host=gU-2r-E35m-eO-2rTT-3f-b-CDq-2G4t-t5-Hdr4-6Yvd-35gH-dwE64-w.pAGes.Dev&fp=safari&type=ws&sni=gU-2r-E35m-eO-2rTT-3f-b-CDq-2G4t-t5-Hdr4-6Yvd-35gH-dwE64-w.pAGes.Dev#%F0%9F%87%B3%F0%9F%87%B1+S1+%7C+%D9%87%D9%85%D9%87+%DB%8C+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D8%A7+2
